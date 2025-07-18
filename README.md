@@ -1,7 +1,6 @@
 # Mini Project OOP – Asteroid Resource Mining 🚀
 
 **Author:** Cătălin Gabriel Badea  
-**Group:** 322AB  
 
 ---
 
